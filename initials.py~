@@ -1,0 +1,16 @@
+ 
+#######################################################################
+#
+# Program:      Initial state creation for trap simulation
+#
+# Author:       Nathanael Lampe, School of Physics, Monash University
+#
+# Created:      December 4, 2012
+#
+# Changelog:    December 4, 2012: Created from twodtrap.py
+#           
+#               
+#
+# Purpose:      Contain functions that create initial states in twod.py
+#               
+########################################################################
